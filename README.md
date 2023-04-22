@@ -2,7 +2,15 @@
 
 Workflows (with prompts) for creating high quality photorealism (using AI)
 
-## Realistic model
+# List of models
+
+1. [Realistic vision V2.0](https://civitai.com/models/4201/realistic-vision-v13)
+2. [Dreamlike Photoreal 2.0](https://civitai.com/models/3811/dreamlike-photoreal-20)
+3. [Analog Madness v3](https://civitai.com/models/8030/analog-madness)
+
+# Examples of prompts
+
+## Realistic model with "Analog Madness"
 
 ### Model
 
