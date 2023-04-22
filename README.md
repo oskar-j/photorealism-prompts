@@ -8,6 +8,11 @@ Workflows (with prompts) for creating high quality photorealism (using AI)
 2. [Dreamlike Photoreal 2.0](https://civitai.com/models/3811/dreamlike-photoreal-20)
 3. [Analog Madness v3](https://civitai.com/models/8030/analog-madness)
 
+# List of tools
+
+1. [Draw Things for Mac](https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820)
+2. [AUTOMATIC1111 UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
 # Examples of prompts
 
 ## Realistic model with "Analog Madness"
